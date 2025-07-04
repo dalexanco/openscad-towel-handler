@@ -1,6 +1,7 @@
 # Towel Handler
 
 ![Towel Handler](/docs/heading-picture.png)
+*Preview render made with [Free STL Viewer](https://stl-viewer.dualbox.com/about) from dualbox.*
 
 ## Overview
 
@@ -19,6 +20,12 @@ The Towel Handler is a parametric model designed to be printed and used as a tow
 2. **Slice the model** using your preferred slicing software.
 3. **Print the model** using a 3D printer.
 4. **Assemble the towel handler** according to the provided instructions.
+
+## Todo list
+
+- [] Add some render pictures
+- [] Add comment doc on parameters
+- [] Publish the model on makerworld
 
 ## Contributing
 
